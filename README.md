@@ -1,5 +1,7 @@
 # rn-paper-interface
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/NextZeus/paper-friends.svg)](https://greenkeeper.io/)
+
 Implementation of Facebook Paper-like interactive UI in React Native.
 
 Read the blog post: [Building a Facebook Paper-like UI with React Native](https://medium.com/@paramaggarwal/building-a-facebook-paper-like-ui-with-react-native-4a753623d343#.1ou5i5ntm) on Medium.
